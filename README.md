@@ -1,4 +1,4 @@
-# This project was originally done by the Net Ninja
+This project was originally done by the Net Ninja
 
 # Getting Started with Create React App
 
